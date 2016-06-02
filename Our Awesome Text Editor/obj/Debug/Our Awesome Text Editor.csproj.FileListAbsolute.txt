@@ -1,0 +1,9 @@
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\Our Awesome Text Editor\Our Awesome Text Editor\bin\Debug\Our Awesome Text Editor.exe.config
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\Our Awesome Text Editor\Our Awesome Text Editor\bin\Debug\Our Awesome Text Editor.exe
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\Our Awesome Text Editor\Our Awesome Text Editor\bin\Debug\Our Awesome Text Editor.pdb
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\Our Awesome Text Editor\Our Awesome Text Editor\obj\Debug\Our Awesome Text Editor.csprojResolveAssemblyReference.cache
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\Our Awesome Text Editor\Our Awesome Text Editor\obj\Debug\Our_Awesome_Text_Editor.Form1.resources
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\Our Awesome Text Editor\Our Awesome Text Editor\obj\Debug\Our_Awesome_Text_Editor.Properties.Resources.resources
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\Our Awesome Text Editor\Our Awesome Text Editor\obj\Debug\Our Awesome Text Editor.csproj.GenerateResource.Cache
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\Our Awesome Text Editor\Our Awesome Text Editor\obj\Debug\Our Awesome Text Editor.exe
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\Our Awesome Text Editor\Our Awesome Text Editor\obj\Debug\Our Awesome Text Editor.pdb
