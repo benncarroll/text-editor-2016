@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Our_Awesome_Text_Editor.Properties
+namespace TextEditor.Properties
 {
 
 
